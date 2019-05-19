@@ -1,0 +1,23 @@
+{
+  "name": "repositorio",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "principal.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielmt10/CursoNode.Js.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielmt10/CursoNode.Js/issues"
+  },
+  "homepage": "https://github.com/Danielmt10/CursoNode.Js#readme"
+}

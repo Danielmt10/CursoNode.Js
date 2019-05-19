@@ -1,0 +1,5 @@
+El nombre del estudiante es :Daniel
+Con cedula :12345
+Se ha registrado en el cursoNode.Js
+Con una duracion de 80
+Y un valor de 0
